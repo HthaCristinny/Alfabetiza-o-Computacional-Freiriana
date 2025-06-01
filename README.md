@@ -1,6 +1,8 @@
 # 🍄 Alfabetização Computacional Freiriana
 
-## Tema: Tecnologia para transformação social
+## Projeto desenvolvido como requisito da disciplina de Programação de Computadores, do curso de Análise e Desenvolvimento de Sistemas da UDF - Centro Universitário
+
+Tema: Tecnologia para transformação social
 
 Estilo: Super Mario Edition
 
