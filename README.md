@@ -4,7 +4,7 @@ Tema: Tecnologia para transformação social
 
 Estilo: Super Mario Edition
 
-Público-alvo: Estudantes universitários iniciantes
+Público-alvo: Público interessado na área de programação.
 
 ---
 
@@ -22,6 +22,15 @@ Público-alvo: Estudantes universitários iniciantes
 - Google Colab
 - Phyton
 - VScode
+
+---
+
+## 👾 Contribuição
+
+- Agatha Cristinny:
+- Arthur Benjamin:
+- Gabriel Lopes:
+- Victor Hugo:
 
 ---
 
