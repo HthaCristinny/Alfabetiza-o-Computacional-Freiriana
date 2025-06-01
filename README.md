@@ -1,29 +1,36 @@
-# Alfabetizacao-Computacional-Freiriana
-🍄 Alfabetização Computacional Freiriana
+# 🍄 Alfabetização Computacional Freiriana
 
-Tema: Tecnologia para transformação social
+## Tema: Tecnologia para transformação social
 
 Estilo: Super Mario Edition
 
 Público-alvo: Estudantes universitários iniciantes
 
-🔑 Diálogo como base da aprendizagem
+---
+
+## 🔑 Diálogo como base da aprendizagem
 
 Como aplicar: Em vez de aulas expositivas tradicionais, promover rodas de conversa sobre tecnologia, informática, algoritmos, IA etc., conectando esses temas às realidades dos estudantes.
 
-🔍 Problematização da realidade
+---
+
+## 🔍 Problematização da realidade
 
 Como aplicar: Trazer problemas reais vividos pelos alunos para serem resolvidos com ferramentas computacionais.
 
 Exemplo: Antes de ensinar lógica de programação, discutir como a lógica está presente em situações do cotidiano (ex: apps, jogos, redes sociais).
 
-🧠 Conhecimento como construção ativa
+---
+
+## 🧠 Conhecimento como construção ativa
 
 Como aplicar: Incentivar os estudantes a construírem seus próprios projetos com base em seus interesses e saberes prévios.
 
 Exemplo: Em vez de ensinar apenas Python ou Java de forma técnica, estimular a criação de programas que reflitam a cultura, o território ou as causas dos alunos 
 
-🎯 Objetivos (Bandeira do fim de fase)
+---
+
+## 🎯 Objetivos (Bandeira do fim de fase)
 
 1. Desenvolver o pensamento lógico e computacional com criticidade
 
@@ -31,7 +38,9 @@ Exemplo: Em vez de ensinar apenas Python ou Java de forma técnica, estimular a 
 
 3. Estimular protagonismo e reflexão – como um verdadeiro herói do Reino Cogumelo!
 
-📌 Etapas do Projeto
+---
+
+## 📌 Etapas do Projeto
 
 🔹 Encontro 1 – Escuta e problematização
 
@@ -56,3 +65,5 @@ Atividade: Cada grupo apresenta sua solução com foco na utilidade social.
 Discussão: “O que aprendemos? O que podemos fazer a partir disso?”
 
 Produto: Proposta final e reflexão crítica (oral ou escrita).
+
+---
