@@ -10,19 +10,26 @@ Público-alvo: Estudantes universitários iniciantes
 
 ## 👥 Equipe
 
-
+- Agatha Cristinny Silva de Moura (35500077)
+- Gabriel Lopes Godois (35632976)
+- Arthur Benjamin
+- Victor Hugo 
 
 ---
 
 ## 💻 Tecnologias Ultilizadas
 
-
+- Google Colab
+- Phyton
+- VScode
 
 ---
 
 ## 🔑 Diálogo como base da aprendizagem
 
-Como aplicar: Em vez de aulas expositivas tradicionais, promover rodas de conversa sobre tecnologia, informática, algoritmos, IA etc., conectando esses temas às realidades dos estudantes.
+Como aplicar: Em vez de aulas expositivas tradicionais, promover rodas de conversa sobre tecnologia, informática, algoritmos, IA etc., 
+
+conectando esses temas às realidades dos estudantes.
 
 ---
 
@@ -51,6 +58,13 @@ Exemplo: Em vez de ensinar apenas Python ou Java de forma técnica, estimular a 
 3. Estimular protagonismo e reflexão – como um verdadeiro herói do Reino Cogumelo!
 
 ---
+
+## 📦 Disposição dos Arquivos
+
+
+
+---
+
 
 ## 📌 Etapas do Projeto
 
