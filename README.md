@@ -80,6 +80,12 @@ Exemplo: Em vez de ensinar apenas Python ou Java de forma técnica, estimular a 
 
 ---
 
+## 🧮 Links de acesso ao código
+
+- https://colab.research.google.com/drive/10TJ3uSXd8uqOGiJbCI5ub4QgA5ogAMUk (Código de programação)
+- https://colab.research.google.com/drive/1oKfvXne7Yr2qdgQCUnLsvf1T0sUpNbb8 (Mini Game)
+
+---
 
 ## 📌 Etapas do Projeto
 
