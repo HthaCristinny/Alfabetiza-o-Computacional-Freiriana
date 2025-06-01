@@ -27,10 +27,10 @@ Público-alvo: Alunos de graduação ou cursos técnicos relacionados à area de
 
 ## 👾 Contribuição
 
-- Agatha Cristinny:
-- Arthur Benjamin:
-- Gabriel Lopes:
-- Victor Hugo:
+- Agatha Cristinny: Criação do material, slides e código
+- Arthur Benjamin: Pesquisa de material
+- Gabriel Lopes: Criação do material, slides e código
+- Victor Hugo: Pesquisa de material
 
 ---
 
