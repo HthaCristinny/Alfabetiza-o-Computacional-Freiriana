@@ -1,4 +1,4 @@
-# 🍄 Projeto desenvolvido como requisito de aprovação da disciplina "Programação de Computadores", do curso Análise e Desenvolvimento de Sistemas da UDF - Centro Universitário.
+# 🍄 Projeto desenvolvido como requisito de aprovação da disciplina "Programação de Computadores", do curso Análise e Desenvolvimento de Sistemas da UDF - Centro Universitário do Distrito Federal
 
 Tema: Tecnologia para transformação social
 
