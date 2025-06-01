@@ -13,13 +13,15 @@ Público-alvo: Alunos de graduação ou cursos técnicos relacionados à area de
 - Agatha Cristinny Silva de Moura (35500077)
 - Gabriel Lopes Godois (35632976)
 - Arthur Benjamin de Moura Santos (35017104)
-- Victor Hugo 
+- Victor Hugo dos Santos Bezerra (35201193)
 
 ---
 
 ## 💻 Tecnologias Ultilizadas
 
 - Google Colab
+- Clideo
+- Canva
 
 ---
 
@@ -69,7 +71,9 @@ Exemplo: Em vez de ensinar apenas Python ou Java de forma técnica, estimular a 
 ## 📦 Disposição dos Arquivos
 
 - Readme
+- Video de teste do código
 - Código de programação
+- Video de teste do código
 - Mini Game - Aventura no castelo
 - 
 
