@@ -20,8 +20,6 @@ Público-alvo: Alunos de graduação ou cursos técnicos relacionados à area de
 ## 💻 Tecnologias Ultilizadas
 
 - Google Colab
-- Phyton
-- VScode
 
 ---
 
