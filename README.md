@@ -1,10 +1,10 @@
-# 🍄 Projeto desenvolvido como requisito da disciplina de Programação de Computadores, do curso de Análise e Desenvolvimento de Sistemas da UDF - Centro Universitário
+# 🍄 Projeto desenvolvido como requisito de aprovação da disciplina "Programação de Computadores", do curso Análise e Desenvolvimento de Sistemas da UDF - Centro Universitário.
 
 Tema: Tecnologia para transformação social
 
 Estilo: Super Mario Edition
 
-Público-alvo: Público interessado na área de programação.
+Público-alvo: Alunos de graduação ou cursos técnicos relacionados à area de programação.
 
 ---
 
