@@ -8,6 +8,18 @@ Público-alvo: Estudantes universitários iniciantes
 
 ---
 
+## 👥 Equipe
+
+
+
+---
+
+## 💻 Tecnologias Ultilizadas
+
+
+
+---
+
 ## 🔑 Diálogo como base da aprendizagem
 
 Como aplicar: Em vez de aulas expositivas tradicionais, promover rodas de conversa sobre tecnologia, informática, algoritmos, IA etc., conectando esses temas às realidades dos estudantes.
