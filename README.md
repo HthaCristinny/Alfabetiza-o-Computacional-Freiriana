@@ -12,7 +12,7 @@ Público-alvo: Alunos de graduação ou cursos técnicos relacionados à area de
 
 - Agatha Cristinny Silva de Moura (35500077)
 - Gabriel Lopes Godois (35632976)
-- Arthur Benjamin
+- Arthur Benjamin de Moura Santos (35017104)
 - Victor Hugo 
 
 ---
