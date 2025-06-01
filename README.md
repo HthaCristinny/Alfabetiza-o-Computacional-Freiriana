@@ -68,6 +68,10 @@ Exemplo: Em vez de ensinar apenas Python ou Java de forma técnica, estimular a 
 
 ## 📦 Disposição dos Arquivos
 
+- Readme
+- Código de programação
+- Mini Game - Aventura no castelo
+- 
 
 
 ---
