@@ -32,6 +32,7 @@ Exemplo: Em vez de ensinar apenas Python ou Java de forma técnica, estimular a 
 3. Estimular protagonismo e reflexão – como um verdadeiro herói do Reino Cogumelo!
 
 📌 Etapas do Projeto
+
 🔹 Encontro 1 – Escuta e problematização
 
 Atividade: Roda de conversa: “Que problemas vemos na nossa comunidade ou universidade?”
