@@ -118,53 +118,53 @@ Produto: Proposta final e reflexão crítica (oral ou escrita).
 
 Referências Bibliograficas
 
-https://www.freecodecamp.org/portuguese/news/as-principais-estruturas-de-dados-que-voce-deve-conhecer-para-sua-proxima-entrevista-de-programacao/
+- https://www.freecodecamp.org/portuguese/news/as-principais-estruturas-de-dados-que-voce-deve-conhecer-para-sua-proxima-entrevista-de-programacao/ 
  
-https://bixtecnologia.com.br/estruturas-de-dados/
+- https://bixtecnologia.com.br/estruturas-de-dados/
 
-https://www.dio.me/articles/conceitos-basicos-tipos-de-dados
+- https://www.dio.me/articles/conceitos-basicos-tipos-de-dados
 
-https://www.devmedia.com.br/algoritmos-entrada-e-saida-de-dados/40748
+- https://www.devmedia.com.br/algoritmos-entrada-e-saida-de-dados/40748
 
-https://medium.com/@rafamachiaveli/estruturas-de-decis%C3%A3o-em-python-ec5e1b8b7a66
+- https://medium.com/@rafamachiaveli/estruturas-de-decis%C3%A3o-em-python-ec5e1b8b7a66
 
-https://www.homehost.com.br/blog/pythondjango/python-switch-case/
+- https://www.homehost.com.br/blog/pythondjango/python-switch-case/
 
-https://www.youtube.com/watch?v=cL4YDtFnCt4
+- https://www.youtube.com/watch?v=cL4YDtFnCt4
 
-https://www.youtube.com/watch?v=LH6OIn2lBaI
+- https://www.youtube.com/watch?v=LH6OIn2lBaI
 
-https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch
+- https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Statements/switch
 
-https://www.rocketseat.com.br/blog/artigos/post/desafios-classicos-logica-python#c3e86a1ec4394dcbbd0b98727cc5800a
+- https://www.rocketseat.com.br/blog/artigos/post/desafios-classicos-logica-python#c3e86a1ec4394dcbbd0b98727cc5800a
 
-MENEZES, Nilo Ney Coutinho. Introdução à Programação com Python: Algoritmos e lógica de programação para iniciantes. 2a ed. São Paulo, SP: Novatec Editora Ltda., 2014. ISBN 978-85-7522-559-2
+- MENEZES, Nilo Ney Coutinho. Introdução à Programação com Python: Algoritmos e lógica de programação para iniciantes. 2a ed. São Paulo, SP: Novatec Editora Ltda., 2014. ISBN 978-85-7522-559-2
 
-https://pythonacademy.com.br/blog/tipos-de-variaveis-no-python
+- https://pythonacademy.com.br/blog/tipos-de-variaveis-no-python
 
-https://www.bosontreinamentos.com.br/logica-de-programacao/algoritmo-torre-de-hanoi-em-python/
+- https://www.bosontreinamentos.com.br/logica-de-programacao/algoritmo-torre-de-hanoi-em-python/
 
-https://usedesk.com.br/blog/fluxograma-de-atendimento
+- https://usedesk.com.br/blog/fluxograma-de-atendimento
 
-https://blog.dankicode.com/logica-de-programacao/
+- https://blog.dankicode.com/logica-de-programacao/
 
-https://chatgpt.com/share/67eb2345-7488-800a-83ff-84e3428b073f
+- https://chatgpt.com/share/67eb2345-7488-800a-83ff-84e3428b073f
 
-https://www.aluralingua.com.br/artigos/tipos-de-dados-em-programacao
+- https://www.aluralingua.com.br/artigos/tipos-de-dados-em-programacao
 
-https://sol.sbc.org.br/index.php/sbie/article/view/22511
+- https://sol.sbc.org.br/index.php/sbie/article/view/22511
 
-https://www.sbgames.org/sbgames2016/downloads/anais/157340.pdf
+- https://www.sbgames.org/sbgames2016/downloads/anais/157340.pdf
 
-https://downloads.editoracientifica.com.br/articles/220809761.pdf
+- https://downloads.editoracientifica.com.br/articles/220809761.pdf
 
-FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. Lógica de programação: a construção de algoritmos e estruturas de dados. 4. ed. São Paulo: Pearson Prentice Hall, 2005.
+- FORBELLONE, André Luiz Villar; EBERSPÄCHER, Henri Frederico. Lógica de programação: a construção de algoritmos e estruturas de dados. 4. ed. São Paulo: Pearson Prentice Hall, 2005.
 
-SOUZA, Marco Antonio Furlan de. Algoritmos e lógica da programação: a construção de programas de computadores. 2. ed. São Paulo: Érica, 2011.
+- SOUZA, Marco Antonio Furlan de. Algoritmos e lógica da programação: a construção de programas de computadores. 2. ed. São Paulo: Érica, 2011.
 
-NIVEN, Ivan; ZUCKERMAN, Herbert S.; MONTGOMERY, Hugh L. Introdução à ciência da computação. Rio de Janeiro: LTC, 1986.
+- NIVEN, Ivan; ZUCKERMAN, Herbert S.; MONTGOMERY, Hugh L. Introdução à ciência da computação. Rio de Janeiro: LTC, 1986.
 
-MADUREIRA, Jamille Silva; SCHNEIDER, Henrique Nou. Gamificação no ensino de programação de computadores em turmas do Ensino Médio: uma experiência com o software Kahoot!. Revista Novas Tecnologias na Educação – RENOTE, Porto Alegre, v. 19, n. 2, p. 91–100, dez. 2021. Disponível em: https://doi.org/10.22456/1679-1916.121191. Acesso em: 1 jun. 2025.
+- MADUREIRA, Jamille Silva; SCHNEIDER, Henrique Nou. Gamificação no ensino de programação de computadores em turmas do Ensino Médio: uma experiência com o software Kahoot!. Revista Novas Tecnologias na Educação – RENOTE, Porto Alegre, v. 19, n. 2, p. 91–100, dez. 2021. Disponível em: https://doi.org/10.22456/1679-1916.121191. Acesso em: 1 jun. 2025.
 
 https://tuiuti.edu.br/wp-content/uploads/2023/01/ciencia-da-computacao-2.jpg
 
