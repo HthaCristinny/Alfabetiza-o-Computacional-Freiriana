@@ -10,10 +10,10 @@ Público-alvo: Alunos de graduação ou cursos técnicos relacionados à area de
 
 ## 👥 Equipe
 
-- Agatha Cristinny Silva de Moura (35500077)
-- Gabriel Lopes Godois (35632976)
-- Arthur Benjamin de Moura Santos (35017104)
-- Victor Hugo dos Santos Bezerra (35201193)
+- Agatha Cristinny Silva de Moura
+- Gabriel Lopes Godois
+- Arthur Benjamin de Moura Santos
+- Victor Hugo dos Santos Bezerra
 
 ---
 
@@ -116,7 +116,7 @@ Produto: Proposta final e reflexão crítica (oral ou escrita).
 
 ---
 
-Referências Bibliograficas
+## 👾 Referências Bibliograficas
 
 - https://www.freecodecamp.org/portuguese/news/as-principais-estruturas-de-dados-que-voce-deve-conhecer-para-sua-proxima-entrevista-de-programacao/ 
  
