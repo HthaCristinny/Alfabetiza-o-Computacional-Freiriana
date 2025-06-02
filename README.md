@@ -166,8 +166,8 @@ Produto: Proposta final e reflexão crítica (oral ou escrita).
 
 - MADUREIRA, Jamille Silva; SCHNEIDER, Henrique Nou. Gamificação no ensino de programação de computadores em turmas do Ensino Médio: uma experiência com o software Kahoot!. Revista Novas Tecnologias na Educação – RENOTE, Porto Alegre, v. 19, n. 2, p. 91–100, dez. 2021. Disponível em: https://doi.org/10.22456/1679-1916.121191. Acesso em: 1 jun. 2025.
 
-https://tuiuti.edu.br/wp-content/uploads/2023/01/ciencia-da-computacao-2.jpg
+- https://tuiuti.edu.br/wp-content/uploads/2023/01/ciencia-da-computacao-2.jpg
 
-https://blog.ebaconline.com.br/blog/wp-content/uploads/2023/10/image3-1.png
+- https://blog.ebaconline.com.br/blog/wp-content/uploads/2023/10/image3-1.png
 
-https://unisagrado.edu.br/uploads/2008/2020_jessica/capa-ciencia-da-computacao.jpg
+- https://unisagrado.edu.br/uploads/2008/2020_jessica/capa-ciencia-da-computacao.jpg
