@@ -70,12 +70,12 @@ Exemplo: Em vez de ensinar apenas Python ou Java de forma técnica, estimular a 
 
 ## 📦 Disposição dos Arquivos
 
+- Introdução a Lógica de Programação
 - Readme
 - Video de teste do código
 - Código de programação
 - Video de teste do código
 - Mini Game - Aventura no castelo
-- 
 
 
 ---
@@ -84,6 +84,7 @@ Exemplo: Em vez de ensinar apenas Python ou Java de forma técnica, estimular a 
 
 - https://colab.research.google.com/drive/10TJ3uSXd8uqOGiJbCI5ub4QgA5ogAMUk (Código de programação)
 - https://colab.research.google.com/drive/1oKfvXne7Yr2qdgQCUnLsvf1T0sUpNbb8 (Mini Game)
+- https://www.canva.com/design/DAGhLD_E5do/_8rCNw0cfhDqMaohQMoNFA/edit?utm_content=DAGhLD_E5do&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (Apresentação de slides e refêrencias)
 
 ---
 
